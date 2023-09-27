@@ -1,0 +1,23 @@
+#name{
+    text-align: center;
+    text-decoration:unset;
+    background-color: black;
+    color:pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: auto;
+}
+.MENU{
+    text-align: left;
+    text-decoration: unset;
+    background-color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.VEG{
+    list-style-type: square;
+    background-color:green;color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.NON-VEG{
+    list-style-type: circle;
+    background-color: red;
+}
